@@ -1,0 +1,3 @@
+Goal: reduce slow API response impact
+Plan: add caching and request timeouts
+Plan: reduce repeated frontend fetch calls
